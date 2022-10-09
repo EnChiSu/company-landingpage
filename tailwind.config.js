@@ -36,7 +36,7 @@ module.exports = {
           DEFAULT: '#ac6b34',
           hover: '#925a2b',
         },
-        paragraph: '#D2B48C',
+        paragraph: '#DCDCDC',
       },
     },
   },
