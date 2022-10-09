@@ -19,9 +19,6 @@ const Hero = () => {
               <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
                 Quickly automate your bills and savings goals with envelope budgeting and earn rewards
               </p>
-              {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>
-                Get Started
-              </button> */}
               <a className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all' href="https://apps.apple.com/us/app/mooch-budget-save-money/id1577839468">
                 Get Started
               </a>
