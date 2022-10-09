@@ -210,25 +210,25 @@ export const skills = [
 // services
 export const services = [
   {
-    icon: <img src={Save_Img} alt='Save_Img' style={{ width: '100%' }}/>,
+    icon: <img src={Save_Img} alt='Save_Img' style={{ width: '60%' }}/>,
     name: 'Save',
     description:
       'Take Control of your Budgeting and Saving.',
   },
   {
-    icon: <img src={Earn_Img} alt='Earn_Img' style={{ width: '100%' }}/>,
+    icon: <img src={Earn_Img} alt='Earn_Img' style={{ width: '60%' }}/>,
     name: 'Earn',
     description:
       'Earn Rewards everytime you save money.',
   },
   {
-    icon: <img src={Budget_Img} alt='Earn_Img' style={{ width: '100%' }}/>,
+    icon: <img src={Budget_Img} alt='Earn_Img' style={{ width: '60%' }}/>,
     name: 'Budget',
     description:
       'We help you budget your monthly expense with our system.',
   },
   {
-    icon: <img src={Guide_Img} alt='Guide_Img' style={{ width: '100%' }}/>,
+    icon: <img src={Guide_Img} alt='Guide_Img' style={{ width: '60%' }}/>,
     name: 'Guide',
     description:
       'Free Financial Resources and Guides.',
