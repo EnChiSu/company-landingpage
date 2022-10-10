@@ -4,12 +4,12 @@ The idea behind this project is to prototype a new landing page for Mooch with R
 ## Run Locally
 Clone the project
 ```
-git clone  https://github.com/carlosblanc0/fenderfy.git
+git clone https://github.com/EnChiSu/mooch-landingpage.git
 ```
 
 Go to the project directory
 ```
-cd fenderfy
+cd mooch-landingpage
 ```
 
 Install dependencies
