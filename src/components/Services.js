@@ -25,7 +25,13 @@ const Services = () => {
                 </div>
                 <div>
                   <h4 className='text-xl text-black font-medium mb-2'>{name}</h4>
-                  <p className='content'>{description}</p>
+                  <p className='content mb-5'>{description}</p>
+                  <button class="bg-transparent hover:bg-yellow-600 text-yellow-600 font-bold hover:text-white py-2 px-4 border border-yellow-600 rounded inline-flex items-center">
+                    <span>Find out more</span>
+                    <svg class="ml-2 w-4 h-4 fill-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                    </svg>
+                  </button>
                 </div>
               </div>
             );
