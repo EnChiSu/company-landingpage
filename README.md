@@ -7,12 +7,12 @@ The idea behind this project is to prototype a new company landing page with Rea
 ## Run Locally
 Clone the project
 ```
-git clone https://github.com/EnChiSu/mooch-landingpage.git
+git clone https://github.com/EnChiSu/company-landingpage.git
 ```
 
 Go to the project directory
 ```
-cd mooch-landingpage
+cd company-landingpage
 ```
 
 Install dependencies
